@@ -1,0 +1,13 @@
+ASSIGNMENT.md
+laughter-detection/
+media/
+research/
+external/
+archive/
+.venv/
+venv/
+.conda/
+conda/
+.DS_Store
+~$*
+

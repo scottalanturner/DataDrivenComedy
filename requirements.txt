@@ -1,0 +1,6 @@
+pandas
+numpy
+arviz
+pymc
+boto3>=1.34.154
+matplotlib
